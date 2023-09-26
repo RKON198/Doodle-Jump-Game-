@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    
+}
+#box{
+    /* background-color: green; */
+    background-image: url("./doodlejumpbg.png");
+}
